@@ -1,6 +1,6 @@
 # Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models
 
-[Paper](https://arxiv.org/abs/2512.02636)
+<!-- [Paper](https://arxiv.org/abs/2512.02636) -->
 
 The implementation for [Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models](https://arxiv.org/abs/2512.02636).
 
