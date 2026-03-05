@@ -6,6 +6,8 @@ The implementation for [Joint Distillation for Fast Likelihood Evaluation and Sa
 
 ![demo](./assets/comparison_grid.png)
 
+Update: The Jax version of our implementation can be found [here](https://github.com/Keely-Ai/JAX-F2D2).
+
 ## Environment
 Run the following command to set up the Python environment through `conda`.
 
