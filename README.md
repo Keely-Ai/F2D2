@@ -58,10 +58,12 @@ We would like to express our appreciation to them.
 ## Citation
 
 ```
-@article{ai2025joint,
-  title={Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models},
-  author={Ai, Xinyue and He, Yutong and Gu, Albert and Salakhutdinov, Ruslan and Kolter, J Zico and Boffi, Nicholas Matthew and Simchowitz, Max},
-  journal={arXiv preprint arXiv:2512.02636},
-  year={2025}
+@inproceedings{
+    ai2026joint,
+    title={Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models},
+    author={Xinyue Ai and Yutong He and Albert Gu and Ruslan Salakhutdinov and J Zico Kolter and Nicholas Matthew Boffi and Max Simchowitz},
+    booktitle={The Fourteenth International Conference on Learning Representations},
+    year={2026},
+    url={https://openreview.net/forum?id=8uZ5UdIul2}
 }
 ```
